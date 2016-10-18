@@ -1,0 +1,33 @@
+*{
+	font-family: 'Rancho', cursive;
+	font-size: 20px;
+}
+
+.invocador{
+	font-family: 'Architects Daughter', cursive;
+	color: #000;
+}
+.parallax-window {
+	margin-top: 60px;
+    min-height: 400px;
+    background: transparent;
+}
+.servicios{
+	list-style: none;
+}
+.servicios>li{
+	font-family: 'Architects Daughter', cursive;
+	color: white;
+}
+footer{
+	background: #1ABC9C;
+	padding: 20px;
+	float: bottom;
+}
+.subfooter{
+	background: #16A085;
+}
+.servicios>li:hover{
+	background: #95a5a6;
+	color: black;
+}
